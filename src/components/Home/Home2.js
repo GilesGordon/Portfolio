@@ -19,37 +19,21 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
+            I'm currently a student at Northeastern working towards a <i><b className="purple"> Bachelor of Science in Computer Science</b></i>
+            . I find joy in developing innovative solutions to real world problems in the CS field, and I'm excited see where my education will 
+            take me in this rapidly changing field.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+            I have five years experience coding with object oriented programming languages, mainly in 
+            <i><b className="purple"> Java, Python, and Objective-C.</b></i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+            Recently, I've discovered a new passion for web development and android app development. 
+              <br />
+              <br />
+              I'll be graduating Northeastern in 2026, but meanwhile I'd like to get experience in the field through co-ops or 
+              internships.  <i><b className="purple">Please feel free to contact me if you would like to connect, or are aware of any potential 
+              opportunities for which you think I may be appropriate.</b></i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +51,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/GilesGordon"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,32 +61,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/gilesgordon/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
