@@ -31,7 +31,7 @@ function Home2() {
             Recently, I've discovered a new passion for web development and android app development. 
               <br />
               <br />
-              I'll be graduating Northeastern in 2026, but meanwhile I'd like to get experience in the field through co-ops or 
+              I'll be graduating Northeastern in the Spring of 2026, but meanwhile I'd like to get experience in the field through co-ops or 
               internships.  <i><b className="purple">Please feel free to contact me if you would like to connect, or are aware of any potential 
               opportunities for which you think I may be appropriate.</b></i>
             </p>

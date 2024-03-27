@@ -9,6 +9,7 @@ import {
   SiPycharm,
   SiAndroidstudio,
   SiXcode,
+  SiAmazonaws,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -45,6 +46,10 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiXcode />
         <h6>XCode</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAmazonaws />
+        <h6>Amazon Web Services</h6>
       </Col>
     </Row>
   );
