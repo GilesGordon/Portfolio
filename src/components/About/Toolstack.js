@@ -11,10 +11,21 @@ import {
   SiXcode,
   SiAmazonaws,
 } from "react-icons/si";
+import {
+  DiGit,
+} from "react-icons/di";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGit />
+        <h6>Git</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiLinux />
+        <h6>Linux</h6>
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiWindows />
         <h6>Windows</h6>
@@ -24,8 +35,8 @@ function Toolstack() {
         <h6>MacOS</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiLinux />
-        <h6>Linux</h6>
+        <SiAmazonaws />
+        <h6>Amazon Web Services</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
@@ -46,10 +57,6 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiXcode />
         <h6>XCode</h6>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiAmazonaws />
-        <h6>Amazon Web Services</h6>
       </Col>
     </Row>
   );

@@ -15,47 +15,50 @@ import {
   SiFirebase,
   SiC,
   SiKotlin,
+  SiRedux,
+  SiAxios,
+  SiJetpackcompose,
 } from "react-icons/si";
-import { FaApple } from "react-icons/fa";
+import { FaApple, FaBootstrap } from "react-icons/fa";
 import { BiCoinStack } from "react-icons/bi";
 
-function Techstack() {
+function Otherstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
-        <h6>Java</h6>
+        <DiNodejs />
+        <h6>Node.js</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-        <h6>Python</h6>
+        <DiReact />
+        <h6>React</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-      <FaApple />
-        <h6>Objective-C</h6>
+      <SiRedux />
+        <h6>Redux</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
-        <h6>JavaScript</h6>
+      <SiAxios />
+        <h6>Axios</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiHtml5 />
-        <h6>HTML</h6>
+      <FaBootstrap />
+        <h6>Bootstrap</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiCss3 />
-        <h6>CSS</h6>
+      <SiJetpackcompose />
+        <h6>Jetpack Compose</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiC />
-        <h6>C</h6>
+        <DiMongodb />
+        <h6>MongoDB</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiKotlin />
-        <h6>Kotlin</h6>
+      <BiCoinStack />
+        <h6>Room</h6>
       </Col>
     </Row>
   );
 }
 
-export default Techstack;
+export default Otherstack;

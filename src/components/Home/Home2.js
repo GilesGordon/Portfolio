@@ -2,12 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
-} from "react-icons/ai";
+import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { IoMail } from "react-icons/io5";
 
 function Home2() {
   return (
@@ -31,6 +28,10 @@ function Home2() {
             Recently, I've discovered a new passion for web development and android app development. 
               <br />
               <br />
+            Apart from coding, some other activities that I love to do Include playing games, exercising, cooking, traveling, and playing tennis, 
+            squash, and piano.
+            <br />
+            <br />
               I'll be graduating Northeastern in the Spring of 2026, but meanwhile I'd like to get experience in the field through co-ops or 
               internships.  <i><b className="purple">Please feel free to contact me if you would like to connect, or are aware of any potential 
               opportunities for which you think I may be appropriate.</b></i>
@@ -49,6 +50,16 @@ function Home2() {
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
+              <li className="social-icons">
+                <a
+                  href="mailto:gordon.gi@northeastern.edu"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  < IoMail/>
+                </a>
+              </li>
               <li className="social-icons">
                 <a
                   href="https://github.com/GilesGordon"

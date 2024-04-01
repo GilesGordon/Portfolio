@@ -6,6 +6,7 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import Otherstack from "./Otherstack";
 
 function About() {
   return (
@@ -22,7 +23,7 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Brief <strong className="purple">Introduction</strong>
+              Technical <strong className="purple">Expertise</strong>
             </h1>
             <Aboutcard />
           </Col>
@@ -35,11 +36,15 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading">
-          Professional <strong className="purple">Skillset </strong>
+          Programming <strong className="purple">Languages</strong>
         </h1>
 
         <Techstack />
 
+        <h1 className="project-heading">
+        <strong className="purple">Libraries, Frameworks </strong> and <strong className="purple">Databases</strong>
+        </h1>
+        <Otherstack />
         <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
         </h1>
