@@ -55,7 +55,7 @@ function Otherstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
       <BiCoinStack />
-        <h6>Room</h6>
+        <h6>RoomDB</h6>
       </Col>
     </Row>
   );
