@@ -21,11 +21,15 @@ function Home2() {
             take me in this rapidly changing field.
               <br />
               <br />
-            I have five years experience coding with object oriented programming languages, mainly in 
-            <i><b className="purple"> Java, Python, and Objective-C.</b></i>
+            I have five years of experience coding with object oriented programming languages, mainly in 
+            <i><b className="purple"> Java, Javascript, Python, and Objective-C.</b></i>
               <br />
               <br />
-            Recently, I've discovered a new passion for web development and android app development. 
+            Recently, I've discovered a new passion for web development and android app development, and have had the opportunity to participate 
+            in a <b className="purple">software engineering</b> internship for the IpserLab startup foundry and a <b className="purple">web development </b> 
+            co-op for Northeastern University Research Enterprise Services (NU-RES). I also had a lot of fun participating in 
+            the <a className="blog-link" href="https://stolenquotient2.itch.io/lizard-legacy" target="_blank"><b className="purple">2024 GMTK game jam</b></a>, and have taken up game 
+            development as a hobby.
               <br />
               <br />
             Apart from coding, some other activities that I love to do Include playing games, exercising, cooking, traveling, and playing tennis, 

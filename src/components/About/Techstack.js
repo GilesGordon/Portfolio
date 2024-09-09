@@ -15,6 +15,7 @@ import {
   SiFirebase,
   SiC,
   SiKotlin,
+  SiGodotengine,
 } from "react-icons/si";
 import { FaApple } from "react-icons/fa";
 import { BiCoinStack } from "react-icons/bi";
@@ -53,6 +54,10 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiKotlin />
         <h6>Kotlin</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGodotengine />
+        <h6>GDScript</h6>
       </Col>
     </Row>
   );

@@ -10,6 +10,7 @@ import {
   SiAndroidstudio,
   SiXcode,
   SiAmazonaws,
+  SiGodotengine,
 } from "react-icons/si";
 import {
   DiGit,
@@ -57,6 +58,10 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiXcode />
         <h6>XCode</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGodotengine />
+        <h6>Godot</h6>
       </Col>
     </Row>
   );
