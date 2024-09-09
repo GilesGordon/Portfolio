@@ -47,7 +47,6 @@ function Projects() {
               sessions, employing input validation and authentication mechanisms. (note: The site the server is hosted on spins down with inactivity and
               may take a moment to load modules initially)"
               ghLink="https://github.com/GilesGordon/kanbas-react-web-app"
-              demoLink="https://legendary-rugelach-aa49a1.netlify.app/#/Kanbas/Dashboard"
             />
           </Col>
           <Col md={4} className="project-card">
