@@ -42,9 +42,12 @@ function Projects() {
               imgPath={Kanbas}
               isBlog={false}
               title="Kanbas"
-              description="Mock Canvas web application with responsive client-side interactivity and dynamic content using HTML, CSS, and JavaScript and through leveraging the React framework for modular and reusable code. It will use RESTful APIs to communicate between the front-end and back-end using technologies such as Node.js and MongoDB, and will employ security best practices for user authentication."
+              description="Mock Canvas web application with responsive and dynamic client-side interactivity using the MERN stack. Designed and 
+              implemented a REST API with Node and Express to store course, module, and user data in MongoDB. Enabled logging in using Express 
+              sessions, employing input validation and authentication mechanisms. (note: The site the server is hosted on spins down with inactivity and
+              may take a moment to load modules initially)"
               ghLink="https://github.com/GilesGordon/kanbas-react-web-app"
-              demoLink="https://dainty-melomakarona-90832c.netlify.app/#/Kanbas/Dashboard"
+              demoLink="https://legendary-rugelach-aa49a1.netlify.app/#/Kanbas/Dashboard"
             />
           </Col>
           <Col md={4} className="project-card">
