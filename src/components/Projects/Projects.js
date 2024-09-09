@@ -44,8 +44,7 @@ function Projects() {
               title="Kanbas"
               description="Mock Canvas web application with responsive and dynamic client-side interactivity using the MERN stack. Designed and 
               implemented a REST API with Node and Express to store course, module, and user data in MongoDB. Enabled logging in using Express 
-              sessions, employing input validation and authentication mechanisms. (note: The site the server is hosted on spins down with inactivity and
-              may take a moment to load modules initially)"
+              sessions, employing input validation and authentication mechanisms."
               ghLink="https://github.com/GilesGordon/kanbas-react-web-app"
             />
           </Col>
