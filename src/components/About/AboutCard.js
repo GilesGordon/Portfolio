@@ -21,9 +21,8 @@ function AboutCard() {
             <br/>
             <br/>
             Outside of class, I've worked as a software engineer intern doing full-stack web development for Tectra (IpserLab), a startup 
-            for connecting university technology with corporations. I've also worked for Northeastern University Research Enterprise Services, developing, 
-            updating, and maintaining website content using the WordPress CMS as the primary point-of-contact for the website user
-            experience for NU-RES and its partners. Here are the websites I've worked on:
+            for connecting university technology with corporations. I've also worked to develop, update, and maintain website content 
+            using the WordPress CMS as the primary point-of-contact for the website user experience for NU-RES and its partners.
             <br/>
             <br/>
             Please see below for the full list of technical skills and tools I've used.
